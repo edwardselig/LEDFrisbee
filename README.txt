@@ -1,4 +1,4 @@
-For my final project in embedded systems I created a frisbee that has LEDs on it that changes colors based
+For my final project in embedded systems during my Fall 2015 semester I created a frisbee that has LEDs on it that changes colors based
 on how fast the disc is rotating.  When i presented my project to hundreds of kids at UB's CS education week
 a lot of parents and kids thought it was really cool and told me they would buy it.  After the project was
 handed in i have continued to improve my project and i have created a cheaper, marketable model that i plan
