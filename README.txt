@@ -8,4 +8,5 @@ sell it to a retailer or not it was a rewarding experience.
 
 I received a 100% on the project.  I derived the equations for each color range by using a linear equation that
 would keep every color between 0 and 255.  I used an adafruit Trinket microprocessor, a 10 neopixel LED strip,
-and a 16g accelerometer.
+and a 16g accelerometer.  The frisbee transistions between red at low speeds, and violet at high speeds traversing
+every color in the rainbow in between.
